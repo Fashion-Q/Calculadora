@@ -1,2 +1,2 @@
-# Calculadora-Fasael
-Codando com o brabo
+# Calculadora
+devs: Verenilson & Fasael
